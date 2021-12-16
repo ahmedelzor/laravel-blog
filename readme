@@ -1,0 +1,17 @@
+
+
+A simple explanation of the steps of the work:
+
+
+1- Any user can register a new user by himself, and the registration is as a user only, not an admin.
+2- Only the admin is the one who adds articles.
+3- The icons to add, edit or delete an article will not appear except for the admin only.
+4- Users can see all articles.
+5- Users can only write a comment.
+6- Users and admins can see written coments.
+7- Only admin can delete comments.
+8- It is not possible to do any action on the site without logging in.
+
+
+
+                                    I Hope to be good as you expect me to be
